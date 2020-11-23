@@ -11,5 +11,6 @@
 - time.ipynb：时间分析代码
 - length.ipynb：字数分析代码
 - wordcloud.ipynb：内容分析代码（词频及词云部分）
+- stopwords.txt: 清洗掉wordcloud中无意义的词汇
 - confession.ipynb：内容分析代码（告白评论部分）
 - 其他文件：代码运行的必要文件
